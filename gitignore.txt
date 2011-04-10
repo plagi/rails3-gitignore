@@ -1,5 +1,11 @@
 #----------------------------------------------------------------------------
 # Ignore these files when commiting to a git repository
+#
+# The original version of this file is found here:
+# https://github.com/fortuity/rails3-gitignore/raw/master/gitignore.txt
+#
+# Corrections? Improvements? Create a GitHub issue: 
+# https://github.com/fortuity/rails3-gitignore/issues
 #----------------------------------------------------------------------------
 
 # bundler state
